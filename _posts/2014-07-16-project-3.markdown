@@ -4,8 +4,8 @@ subtitle:
 layout: default
 modal-id: 3
 date: 2010-11-01
-img: Masterplan.jpg
-thumbnail: Masterplan.jpg
+img: masterplan.jpg
+thumbnail: masterplan.jpg
 alt: image-alt
 project-date: April 2014
 client: 
