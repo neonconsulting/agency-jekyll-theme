@@ -5,7 +5,7 @@ layout: default
 modal-id: 6
 date: 2010-11-01
 img: Manage.jpg
-thumbnail: Manage.jpg
+thumbnail: Manage-thumb.jpg
 alt: image-alt
 project-date: 
 client: 4
