@@ -2,7 +2,7 @@
 color:
   primary: ff7f00
   secondary: fec503   
-  secondary-dark: 000000
+  secondary-dark: 333
   muted: 777
 
 # Font Families
