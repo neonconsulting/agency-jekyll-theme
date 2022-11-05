@@ -5,7 +5,7 @@ layout: default
 modal-id: 2
 date: 2010-11-01
 img: Traffic.jpg
-thumbnail: Traffic.jpg
+thumbnail: Traffic-thumb.jpg
 alt: image-alt
 project-date: April 2014
 client: 
