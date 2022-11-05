@@ -1,6 +1,6 @@
 ---
 title: Masterplanning
-subtitle: 
+subtitle: Masterplanning
 layout: default
 modal-id: 3
 date: 2010-11-01
