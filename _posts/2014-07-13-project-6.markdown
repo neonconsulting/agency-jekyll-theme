@@ -3,13 +3,13 @@ title: Management
 subtitle: Project Delivery and Construction Management
 layout: default
 modal-id: 6
-date: 
+date: 4
 img: Manage.jpg
 thumbnail: Manage.jpg
 alt: image-alt
 project-date: 
-client: 
-category: 
+client: 4
+category: 4
 description: Construction management and supervision | Contract management
 
 ---
