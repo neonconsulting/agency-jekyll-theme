@@ -7,9 +7,9 @@ date: 2010-11-01
 img: Water.jpg
 thumbnail: Water-thumb.jpg
 alt: image-alt
-project-date: 
-client: 2
-category: 2
+project-date: April 2014
+client:
+category:
 description: Water and sewer network design and analysis | Sewer gravity & pumped systems
 
 ---
