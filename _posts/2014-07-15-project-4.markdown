@@ -5,7 +5,7 @@ layout: default
 modal-id: 4
 date: 2010-11-01
 img: Roads.jpg
-thumbnail: Roads.jpg
+thumbnail: Roads-thumb.jpg
 alt: image-alt
 project-date: 1
 client: 1
