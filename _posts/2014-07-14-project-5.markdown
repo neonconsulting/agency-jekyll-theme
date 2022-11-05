@@ -5,7 +5,7 @@ layout: default
 modal-id: 5
 date: 2010-11-01
 img: Water.jpg
-thumbnail: Water.jpg
+thumbnail: Water-thumb.jpg
 alt: image-alt
 project-date: 
 client: 2
