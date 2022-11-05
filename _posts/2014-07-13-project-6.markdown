@@ -3,7 +3,7 @@ title: Management
 subtitle: Project Delivery and Construction Management
 layout: default
 modal-id: 6
-date: 4
+date: 2010-11-01
 img: Manage.jpg
 thumbnail: Manage.jpg
 alt: image-alt
