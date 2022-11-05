@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2010-11-01
 img: landdev.jpg
-thumbnail: landdev.jpg
+thumbnail: landdev-thumb.jpg
 alt: image-alt
 project-date: April 2014
 client: 
