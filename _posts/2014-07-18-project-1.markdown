@@ -9,7 +9,7 @@ thumbnail: landdev.jpg
 alt: image-alt
 project-date: April 2014
 client: 
-category: Web Development
+category: 
 description: Subdivision Design | Council & Government Applications | Infrastructure Projects
 
 ---
