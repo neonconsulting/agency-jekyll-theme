@@ -8,8 +8,8 @@ img: Water.jpg
 thumbnail: Water.jpg
 alt: image-alt
 project-date: 
-client: 
-category: 
+client: 2
+category: 2
 description: Water and sewer network design and analysis | Sewer gravity & pumped systems
 
 ---
