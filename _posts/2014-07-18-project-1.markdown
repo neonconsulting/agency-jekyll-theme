@@ -4,11 +4,11 @@ subtitle: Subtitle
 layout: default
 modal-id: 1
 date: 2010-11-01
-img: LandDev.jpg
-thumbnail: LandDev.jpg
+img: landdev.jpg
+thumbnail: landdev.jpg
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+client: 
 category: Web Development
 description: Subdivision Design | Council & Government Applications | Infrastructure Projects
 
