@@ -1,6 +1,6 @@
 ---
 title: Sewerage and Water
-subtitle: Design of Pipeline Services
+subtitle: Design of Services and Utilities
 layout: default
 modal-id: 5
 date: 2010-11-01
