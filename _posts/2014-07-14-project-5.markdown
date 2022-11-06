@@ -1,6 +1,6 @@
 ---
 title: Sewerage and Water
-subtitle: Design of Services and Utilities
+subtitle: Services and Utility Design
 layout: default
 modal-id: 5
 date: 2010-11-01
