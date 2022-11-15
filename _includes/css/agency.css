@@ -269,13 +269,13 @@ header {
     text-align: center;
     color: #333;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/NEON-Box-Sloping-Trans.png');
+    background-image: url('{{ site.baseurl }}/img/NEON-BOX-Sloping-DarkMode.png');
     background-position: right center;
-    background-repeat: auto;
-    -webkit-background-size: auto;
-    -moz-background-size: auto;
-    background-size: auto;
-    -o-background-size: auto;
+    background-repeat: contain;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    background-size: contain;
+    -o-background-size: contain;
 }
 
 header .intro-text {
