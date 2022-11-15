@@ -271,7 +271,7 @@ header {
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/NEON-BOX-Sloping-DarkMode.png');
     background-position: right center;
-    background-repeat: contain;
+    background-repeat: no-repeat;
     -webkit-background-size: contain;
     -moz-background-size: contain;
     background-size: contain;
