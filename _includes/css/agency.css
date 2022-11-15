@@ -267,7 +267,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #333;
+    color: #fff;
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/NEON-BOX-Sloping-DarkMode.png');
     background-position: right center;
