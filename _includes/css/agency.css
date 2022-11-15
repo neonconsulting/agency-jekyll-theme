@@ -267,15 +267,15 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #fff;
+    color: #333;
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/NEON-Box-Sloping-Trans.png');
     background-position: right center;
-    background-repeat: none;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+    background-repeat: auto;
+    -webkit-background-size: auto;
+    -moz-background-size: auto;
+    background-size: auto;
+    -o-background-size: auto;
 }
 
 header .intro-text {
