@@ -1,6 +1,6 @@
 ---
 title: Land Development
-subtitle: Subdivisions and Infrstructure Projects
+subtitle: Subdivisions and Infrastructure Projects
 layout: default
 modal-id: 1
 date: 2010-11-01
